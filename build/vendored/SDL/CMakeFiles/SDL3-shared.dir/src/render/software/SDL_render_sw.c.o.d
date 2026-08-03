@@ -1,0 +1,27 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_render_sw.c.o: \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_render_sw.c \
+ /usr/include/stdc-predef.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/SDL_internal.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../SDL_sysrender.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_blit.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../SDL_yuv_sw_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_render_sw_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_draw.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_blendfillrect.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_blendline.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_blendpoint.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_drawline.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_drawpoint.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/SDL_triangle.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_pixels_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_rotate.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_sysvideo.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/render/software/../../video/SDL_surface_c.h

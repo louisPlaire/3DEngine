@@ -1,0 +1,25 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/events/SDL_eventwatch.c.o: \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_eventwatch.c \
+ /usr/include/stdc-predef.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/SDL_internal.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_eventwatch_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_events_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/../video/SDL_sysvideo.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/../video/SDL_surface_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/../video/SDL_blit.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_clipboardevents_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_displayevents_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_dropevents_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_keyboard_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_keymap_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_mouse_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_touch_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_pen_c.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/../SDL_internal.h \
+ /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/events/SDL_windowevents_c.h
