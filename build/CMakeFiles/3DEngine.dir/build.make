@@ -93,6 +93,7 @@ CMakeFiles/3DEngine.dir/3DEngine.c.s: cmake_force
 3DEngine: CMakeFiles/3DEngine.dir/3DEngine.c.o
 3DEngine: CMakeFiles/3DEngine.dir/build.make
 3DEngine: libSDL3.so.0.5.0
+3DEngine: /usr/lib/x86_64-linux-gnu/libm.so
 3DEngine: /home/louis/dev/C/SDL/3DEngine/vendored/SDL/src/dynapi/SDL_dynapi.sym
 3DEngine: CMakeFiles/3DEngine.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/louis/dev/C/SDL/3DEngine/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable 3DEngine"

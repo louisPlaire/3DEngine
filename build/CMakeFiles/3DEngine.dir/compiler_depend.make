@@ -70,6 +70,7 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
   /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/inttypes.h \
+  /usr/include/math.h \
   /usr/include/stdc-predef.h \
   /usr/include/stdint.h \
   /usr/include/stdio.h \
@@ -83,8 +84,15 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
   /usr/include/x86_64-linux-gnu/bits/endianness.h \
   /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
   /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
   /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
   /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
@@ -143,6 +151,16 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
 
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_time.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_surface.h:
@@ -197,6 +215,8 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_log.h:
 
+/usr/include/x86_64-linux-gnu/bits/fp-logb.h:
+
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_mutex.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_close_code.h:
@@ -213,13 +233,15 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_init.h:
 
-/home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_guid.h:
-
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_audio.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_cpuinfo.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
 
 /usr/include/endian.h:
 
@@ -251,9 +273,11 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_hints.h:
 
-/home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_blendmode.h:
-
 /usr/include/string.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_joystick.h:
 
@@ -262,8 +286,6 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_assert.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_events.h:
 
@@ -283,11 +305,13 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_haptic.h:
 
-/usr/include/x86_64-linux-gnu/bits/wordsize.h:
-
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_camera.h:
 
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_bits.h:
+
+/home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_blendmode.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
@@ -321,11 +345,13 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /usr/include/inttypes.h:
 
-/usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+/usr/include/math.h:
 
 /usr/include/stdint.h:
+
+/home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_guid.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
 /usr/include/stdio.h:
 
@@ -343,6 +369,16 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
+/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
@@ -354,8 +390,6 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
@@ -375,26 +409,16 @@ CMakeFiles/3DEngine.dir/3DEngine.c.o: /home/louis/dev/C/SDL/3DEngine/3DEngine.c 
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
 /home/louis/dev/C/SDL/3DEngine/vendored/SDL/include/SDL3/SDL_version.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
-
-/usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
-
-/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/wchar.h:
-
-/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
-
-/usr/include/x86_64-linux-gnu/sys/select.h:

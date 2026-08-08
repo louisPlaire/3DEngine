@@ -362,6 +362,9 @@ LibUSB_LINK_FLAGS:STRING=
 //Extra link libraries of LibUSB
 LibUSB_LINK_LIBRARIES:STRING=
 
+//Path to a library.
+MATH_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/libm.so
+
 //Path to a file.
 OPENGL_EGL_INCLUDE_DIR:PATH=/usr/include
 

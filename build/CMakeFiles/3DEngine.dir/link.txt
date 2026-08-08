@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/3DEngine.dir/3DEngine.c.o -o 3DEngine  -Wl,-rpath,/home/louis/dev/C/SDL/3DEngine/build libSDL3.so.0.5.0 
+/usr/bin/cc CMakeFiles/3DEngine.dir/3DEngine.c.o -o 3DEngine  -Wl,-rpath,/home/louis/dev/C/SDL/3DEngine/build libSDL3.so.0.5.0 -lm 

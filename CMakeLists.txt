@@ -14,3 +14,8 @@ add_executable(3DEngine WIN32 3DEngine.c)
 
 # Link to the actual SDL3 library.
 target_link_libraries(3DEngine PRIVATE SDL3::SDL3)
+
+find_library(MATH_LIBRARY m)
+if(MATH_LIBRARY)
+    target_link_libraries(3DEngine PUBLIC ${MATH_LIBRARY})
+endif()
