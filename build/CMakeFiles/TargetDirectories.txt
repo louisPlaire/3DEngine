@@ -1,8 +1,0 @@
-/home/louis/dev/C/SDL/3DEngine/build/CMakeFiles/3DEngine.dir
-/home/louis/dev/C/SDL/3DEngine/build/CMakeFiles/edit_cache.dir
-/home/louis/dev/C/SDL/3DEngine/build/CMakeFiles/rebuild_cache.dir
-/home/louis/dev/C/SDL/3DEngine/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
-/home/louis/dev/C/SDL/3DEngine/build/vendored/SDL/CMakeFiles/SDL3_test.dir
-/home/louis/dev/C/SDL/3DEngine/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
-/home/louis/dev/C/SDL/3DEngine/build/vendored/SDL/CMakeFiles/edit_cache.dir
-/home/louis/dev/C/SDL/3DEngine/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
